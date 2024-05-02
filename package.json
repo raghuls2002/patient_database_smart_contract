@@ -1,0 +1,19 @@
+{
+  "name": "patient_record_contract",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "assert": "^2.1.0",
+    "ganache": "^7.9.2",
+    "mocha": "^10.4.0",
+    "solc": "^0.8.25"
+  }
+}
