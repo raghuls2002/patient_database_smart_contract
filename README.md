@@ -1,4 +1,4 @@
-# patientDatabase Smart Contract
+# Patient Database Smart Contract
 
 **Secure On-Chain Storage for Remote Patient Monitoring**
 
