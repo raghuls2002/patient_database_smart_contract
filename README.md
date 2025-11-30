@@ -116,18 +116,6 @@ function changeDoctor(address newDoctorAddress)
 1. Place contract in `contracts/`
 2. Run deployment scripts via CLI.
 
-## Recommended GitHub Repository Names
-
-### Frontend (React)
-
-* `remote-patient-monitoring-frontend`
-* `rpm-react-dashboard`
-
-### Smart Contract
-
-* `patient-monitoring-smart-contract`
-* `rpm-ethereum-contract`
-
 ## License
 
 This project is licensed under the **MIT License**.
